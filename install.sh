@@ -462,7 +462,7 @@ echo "----------------------------------------------------------------"
 cat >/etc/caddy/Caddyfile <<-EOF
 $domain
 {
-    tls Y3JhenlwZWFjZQ@gmail.com
+    tls jlhzabc0000@gmail.com
     encode gzip
 
 #    多用户 多path
